@@ -21,3 +21,5 @@
 ## 📫 Contact
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&color=484848)](https://discord.com/users/994224724936757389)
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white&color=484848)](https://telegram.me/luwufka)
+
+[![Boosty](https://img.shields.io/badge/Boosty-Donate-f46800.svg?style=for-the-badge&logo=boosty&logoColor=white&labelColor=484848)](https://boosty.to/snowluwu)
